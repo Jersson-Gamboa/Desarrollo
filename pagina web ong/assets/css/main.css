@@ -2381,6 +2381,7 @@
 
 		ol li {
 			padding-left: 0.25rem;
+			
 		}
 
 	ul {
@@ -2391,6 +2392,7 @@
 
 		ul li {
 			padding-left: 0.5rem;
+			color: black;
 		}
 
 		ul.alt {
